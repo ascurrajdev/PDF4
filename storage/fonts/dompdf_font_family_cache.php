@@ -78,9 +78,15 @@
     'normal' => $rootDir . '/lib/fonts/DejaVuSerif',
   ),
   'satisfy' => array(
-    'normal' => $fontDir . '/Satisfy-Regular',
+    'normal' => $rootDir . '/lib/fonts/Satisfy-Regular',
     'bold' => $fontDir . '/satisfy-bold_3235286ef9d8affde7efd7723d05f279',
-    'italic' => $fontDir . '/Satisfy-Regular',
-    'bold_italic' => $fontDir . '/Satisfy-Regular',
+    'italic' => $rootDir . '/lib/fonts/Satisfy-Regular',
+    'bold_italic' => $rootDir . '/lib/fonts/Satisfy-Regular',
+  ),
+  'montserrat' => array(
+    'normal' => $fontDir . '/Montserrat-Regular',
+    'bold' => $fontDir . '/montserrat-bold_ca6fae646cc92d3bfe0b094106db34c6',
+    'italic' => $fontDir . '/Montserrat-Regular',
+    'bold_italic' => $fontDir . '/Montserrat-Regular',
   ),
 ) ?>

@@ -6,7 +6,12 @@
     font-weight: bold;
     font-style: normal;
 }
-
+@font-face{
+    font-family: 'Montserrat';
+    src: url({{storage_path("fonts/Montserrat-Regular.ttf")}}) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 
 @page {
 	padding:0;
@@ -16,6 +21,7 @@
 .titulos{
 	color:#525557;
 	width:491.338583px;
+	font-family: 'Montserrat';
 	border-collapse: separate;
 	text-align: left;
 }
