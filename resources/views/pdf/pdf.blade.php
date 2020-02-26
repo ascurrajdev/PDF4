@@ -211,34 +211,5 @@ footer {
 	<footer class="pie-pagina">
 		<h1>Shabbyshop</h1>
 	</footer>
-<!--<div class="seccion"><div class="inclinacion-texto">Shabbyshop</div></div>-->
-<!--	<div style="width:25%; height:1%;"></div>
-	<div class="cabecera">Cotizacion</div>
-	<div class="barra" ></div>
-	<table class="titulos">
-		<tr>
-			<th class="a1">PRODUCTO</th>
-			<th class="a2">COSTO UNITARIO</th>
-			<th class="a3">CANTIDAD</th>
-			<th class="a4">TOTAL</th>
-		</tr>
-	</table>
-	<div class="barra" ></div>
-	<div class="productos">
-		<div class="b1">Serie lineal 100m (Blanco
-		cálido)</div>
-		<div class="b2">$1,900</div>
-		<div class="b3">22</div>
-		<div class="b4">$41,800</div>
-	</div>
-	<div class="barra" ></div>
-	<div class="totales">
-		<div class="iz">SUBTOTAL</div><div class="der">$41,800</div>
-		<div class="iz">DESCUENTO (10%)</div><div class="der">-$4,180</div>
-		<div class="iz">TOTAL</div><div class="der">$37,620</div>
-    </div>
-    <div class="pie-pagina">
-		<h1>Shabbyshop</h1>
-	</div>-->
 </body>
 </html>
